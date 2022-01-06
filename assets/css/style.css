@@ -49,6 +49,9 @@ main {
     rgba(65, 164, 232, 1) 30%,
     rgba(138, 200, 245, 1) 100%
   );
+  
+  margin-left: 30px;
+  margin-right: 30px; 
 }
 
 .card:nth-child(3),
@@ -75,6 +78,7 @@ h6 {
   position: absolute;
   top: 45px;
   left: 40px;
+  text-align: left;
 }
 
 p {
